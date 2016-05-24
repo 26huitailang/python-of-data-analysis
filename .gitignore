@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+venv
+.idea
+old-file
+.ipynb_checkpoints
+tcl
