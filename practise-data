@@ -1,0 +1,1 @@
+names = np.array(['Bob', 'Joe', 'Will', 'Joe', 'Joe'])
