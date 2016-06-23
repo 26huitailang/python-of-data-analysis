@@ -26,3 +26,4 @@ xlrd
 requests
 pyreadline
 pymongo
+pandoc
