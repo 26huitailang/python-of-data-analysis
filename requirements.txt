@@ -27,3 +27,4 @@ requests
 pyreadline
 pymongo
 pandoc
+statsmodels
